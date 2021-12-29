@@ -45,12 +45,13 @@ Now mechanic can reach to that exact location by using this latitude and longitu
 
 #### Screenshots
 
-![App Screenshot](https://drive.google.com/uc?id=1HNQW9XMqNYfjEo1TaSqpyAOmLUfL7AQ5)
-![App Screenshot](https://drive.google.com/uc?id=12BcEQI7gR9apERxThUKaarhSY0uyd9DM)
+![PlacePickerActivity](https://drive.google.com/uc?id=1HNQW9XMqNYfjEo1TaSqpyAOmLUfL7AQ5)
+
+![SelectLocationActivity](https://drive.google.com/uc?id=12BcEQI7gR9apERxThUKaarhSY0uyd9DM)
 
 
 
 # Developers
-Jay Birthariya - Manager APP<br/>
- 
+Jay Birthariya - Manager APP
+
 Bhagyashree Chilate - Mechanic App
